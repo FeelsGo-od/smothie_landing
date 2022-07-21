@@ -1,5 +1,6 @@
 Preview:
-(Site size: 1,8MB). To był jeden z najtrudniejszych projektów z html, css ze względu na nie do końca typowy kształt, a do tego to będzie slajder, więc musiałem to uwzględnić podczas tworzenia. Zacząłem używać scss po to, żeby się przygotować na większe projekty, w których się to może przydać.
+(Site size: 1,8MB). 
+To był jeden z najtrudniejszych projektów z html, css ze względu na nie do końca typowy kształt, a do tego to będzie slajder, więc musiałem to uwzględnić podczas tworzenia. Zacząłem używać scss po to, żeby się przygotować na większe projekty, w których się to może przydać.
 
 ![Zrzut ekranu 2022-07-21 o 16 35 17](https://user-images.githubusercontent.com/94636710/180243079-541811cf-664b-4ca4-91e8-e46cdd726e11.png)
 --------
