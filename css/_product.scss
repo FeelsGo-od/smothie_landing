@@ -1,0 +1,61 @@
+.products {
+    position: absolute;
+    bottom: -171px;
+    left: -110px;
+    display: flex;
+
+    &__product {
+        width: 220px;
+        padding: 102px 8px 33px;
+        border-radius: 31px;
+        position: relative;
+        margin-left: 31px;
+        text-align: center;
+        font-family: 'Montserrat',
+        sans-serif;
+        text-transform: capitalize;
+        letter-spacing: 0.02em;
+        z-index: 2;
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+        & .image {
+            position: absolute !important;
+            width: 100% !important;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            top: 0;
+
+        }
+
+        & .title {
+            font-weight: 600;
+            font-size: 20px;
+            color: #020202;
+            margin-top: 20px;
+        }
+
+        & .price {
+            color: #dd2d50;
+            font-weight: 700;
+            font-size: 26px;
+            margin-top: 24px;
+        }
+
+        &-blue {
+            background: #CEDBEB;
+        }
+
+        &-green {
+            background: #E2FBC4;
+        }
+
+        &-yellow {
+            background: #FDF3D8;
+        }
+
+    }
+}
